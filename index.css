@@ -1,0 +1,28 @@
+#topbar{
+    background-color: black;
+    color: white;
+    height: 1rem;
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+    pa
+}
+
+body{
+    background-color: bla;
+}
+
+.tabelas{
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    margin: 2rem;
+    width: 10rem;
+    float: left;
+
+}
+
+.text{
+    background-color: blue;
+    padding: 1rem;
+}
